@@ -10,4 +10,4 @@ A simple project to validate user data using Java and JUnit 5.
 ## How to Use:
 1. Download the project:
    ```bash
-   git clone <repository URL>
+   git clone <git@github.com:Aadlani9/ValidadorUsuario.git>
