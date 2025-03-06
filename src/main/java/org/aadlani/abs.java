@@ -4,9 +4,13 @@ package org.aadlani;
 public class abs {
     public static int abs(int x) {
         if (x >= 0) {
+
             return x;
+
         } else {
+
             return -x;
+
         }
     }
 
